@@ -16,3 +16,6 @@ OR - if you just want to run not build than
 
 -> go run 'file path'
 
+# Variable
+
+NOTE: when we make variable in go lang , if it unused than you have to delete that varibale

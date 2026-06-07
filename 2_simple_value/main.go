@@ -12,4 +12,6 @@ func main() {
 	//floats
 	fmt.Println(3.14)
 	fmt.Println(7.0 / 3.0)
+	//artmatic operations
+	fmt.Println(2*8 + 3)
 }
